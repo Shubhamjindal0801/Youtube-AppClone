@@ -86,9 +86,6 @@ nav{
     border-radius: 30px;
     background-color: #ccc;
 }
-.avatar:hover{
-    background-color:white;
-}
 
 .tags{
     display: flex;
@@ -151,6 +148,9 @@ aside{
     padding-top: 10px;
     display: flex;
     gap:5px;
+}
+.avatar{
+    width: 20%;
 }
 .card h3{
     font-size: 20px;
